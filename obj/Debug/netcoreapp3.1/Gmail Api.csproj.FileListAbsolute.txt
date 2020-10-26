@@ -1,0 +1,44 @@
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.exe
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.deps.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.runtimeconfig.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.runtimeconfig.dev.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Gmail Api.pdb
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.AssemblyInfoInputs.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.AssemblyInfo.cs
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.RazorTargetAssemblyInfo.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\staticwebassets\Gmail Api.StaticWebAssets.Manifest.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\staticwebassets\Gmail Api.StaticWebAssets.xml
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.pdb
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.genruntimeconfig.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.csproj.CopyComplete
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\Google.Apis.Gmail.v1.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\OAuth2.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.csprojAssemblyReference.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.csproj.CoreCompileInputs.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\obj\Debug\netcoreapp3.1\Gmail Api.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\tokens\token_chhayly.sreng@gmail.com.json
+D:\OneDrive - IDP Education Ltd\Project\Gmail Api\bin\Debug\netcoreapp3.1\credential\credential.json

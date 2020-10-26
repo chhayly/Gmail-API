@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive - IDP Education Ltd\\Project\\Gmail Api\\Gmail Api.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive - IDP Education Ltd\\Project\\Gmail Api\\Gmail Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - IDP Education Ltd\\Project\\Gmail Api\\Gmail Api.csproj",
+        "projectName": "Gmail Api",
+        "projectPath": "D:\\OneDrive - IDP Education Ltd\\Project\\Gmail Api\\Gmail Api.csproj",
+        "packagesPath": "C:\\Users\\chhayly.sreng.ACE\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - IDP Education Ltd\\Project\\Gmail Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chhayly.sreng.ACE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.49.0.2111, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Mimekit": {
+              "target": "Package",
+              "version": "[2.9.2, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "OAuth2": {
+              "target": "Package",
+              "version": "[0.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
